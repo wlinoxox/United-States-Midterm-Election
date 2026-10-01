@@ -1,6 +1,6 @@
 # 2026 美國期中選舉報告：川普政策會不會窒礙難行？對股、債、匯的影響
 
-> 資料截至 2026-09-30。本報告結合最新民調、預測模型與市場數據，並參考 1994、2006、2010、2018、2022 年等期中選舉的經驗。
+> 資料截至 2026-09-30（第八節石油、美伊與參院攻防更新至 2026-10-01）。本報告結合最新民調、預測模型與市場數據，並參考 1994、2006、2010、2018、2022 年等期中選舉的經驗。
 > 本報告僅供研究參考，不構成投資建議。歷史數據多為約略值，實際操作前請再核對。
 
 ---
@@ -14,6 +14,7 @@
    - 期中選舉年盤中平均回檔幅度偏大，選後 12 個月美股則幾乎每次都上漲。
    - 在共和黨總統任內，國會分裂時選後一年 S&P 500 平均漲約 23%（Morgan Stanley 統計），所有期中選舉的平均約 12%。
 5. **這次跟以往不同的地方：** 10 年期美債殖利率在 9 月重回 **5%**（2007 年以來最高），Fed（主席 Warsh）9 月**升息**一碼到 3.75%–4.00%。歷史上選後的漲勢多半有 Fed 降息或通膨回落撐腰，這次的利率環境比較逆風。對「歷史必漲」的經驗應該打折看待。
+6. **石油與美伊戰爭是最大的選前變數（詳見第八節）。** 美伊戰爭從 2/28 開打，荷莫茲海峽受阻，汽油價格超過每加侖 4 美元，柴油創下 6 美元以上的紀錄。川普已經拒絕伊朗的 7 天停火方案，並公開說油價「選後才會大跌」。參議院的關鍵在 5 個勝負難分的共和黨席次，**共和黨只要守住其中 3 席**，就能靠副總統 Vance 的關鍵票維持多數。
 
 ---
 
@@ -155,6 +156,7 @@
 | 日期 | 事件 | 觀察重點 |
 |---|---|---|
 | 10 月底 FOMC | Fed 利率決策 | 是否再升息。這對市場的影響可能比選舉還大 |
+| 10 月（持續） | 美伊經卡達斡旋談判、SPR 最後 4,000 萬桶釋出 | 選前能否達成協議、汽油價格是否回落到每加侖 4 美元以下 |
 | **2026/11/3** | 期中選舉投票日 | 開票是否延宕、參院關鍵州結果 |
 | 11 月中–12 月 | 跛腳鴨會期 | 共和黨是否趁多數還在時搶通過法案 |
 | 12 月 FOMC | Fed 利率決策與點陣圖 | 2027 年利率路徑 |
@@ -166,7 +168,84 @@
 
 ---
 
-## 八、結論
+## 八、石油、美伊關係與參議院攻防（2026-10-01 補充）
+
+### 1. 現況：戰爭推高油價，油價壓低支持度
+
+| 項目 | 現況 |
+|---|---|
+| 美伊戰爭 | 2/28 開打，到現在第 7 個月。4 月曾停火兩週，6 月簽過備忘錄，7 月、9 月又互相攻擊。美國對伊朗港口實施海上封鎖，伊朗則讓荷莫茲海峽受阻 |
+| 戰線擴大 | 葉門胡塞武裝攻擊沙烏地能源設施與利雅德，部分產能暫停 |
+| 油價 | 9 月 WTI 一度站上 100 美元以上，Brent 高點約 107 美元。9/30 Brent 回到約 97 美元（主因是談判消息） |
+| 終端油價 | 汽油超過每加侖 4 美元，接近今年高點；柴油超過 6 美元，創歷史紀錄 |
+| 戰略石油儲備（SPR） | 9/29 宣布再釋出 4,000 萬桶，是 1.72 億桶國際聯合釋儲的最後一批。之後 SPR 將降到 1982 年以來最低，接近法定下限（2.524 億桶以下不能做非緊急釋出） |
+| 談判 | 經卡達斡旋，在聯合國大會期間間接談判。伊朗提出「7 天方案」：解除封鎖、制裁，解凍約 120 億美元資產，之後重開海峽，再談核問題。**川普在 9/26 拒絕**，美方堅持核問題要一起談 |
+| 川普的說法 | 9/9 說「**選舉一結束，油價就會大跌**」，9/12 又說戰爭會在選後「很快」結束 |
+| 外部預測 | 高盛示警：如果海灣地區產量持續比戰前少 400 萬桶/日，2027 年 Brent 可能超過 120 美元 |
+
+> 重點：油價是通膨上升、Fed 升息、10 年債到 5%、川普支持度跌到新低這一串結果的共同源頭。選舉、利率、市場三條線其實綁在一起。
+
+### 2. 參議院的數學：共和黨要守住幾席？
+
+- 目前是 53R 對 47D。如果變成 50 對 50，副總統 Vance 有關鍵票，所以**民主黨需要淨增 4 席，拿到 51 席才算過半**。
+- 主要戰場（NYT/Siena、DDHQ 等 9 月民調）：
+
+| 州 | 現任 | 對戰 | 民調 | 判讀 |
+|---|---|---|---|---|
+| 北卡羅來納 | R（開放席次） | Cooper (D) vs. Whatley (R) | D +7 | 偏民主黨，大概率翻盤 |
+| 緬因 | R（Collins） | Platner (D) vs. Collins (R) | D +2 | 勝負難分 |
+| 德州 | R（開放席次） | Talarico (D) vs. Paxton (R) | 平手 | 勝負難分 |
+| 俄亥俄（補選） | R（Husted） | Brown (D) vs. Husted (R) | R +3（也有 D +3 的民調） | 勝負難分 |
+| 愛荷華 | R（開放席次） | Turek (D) vs. Hinson (R) | R +2 | 勝負難分 |
+| 阿拉斯加 | R（Sullivan） | Peltola (D) vs. Sullivan (R) | R +2 | 勝負難分 |
+| 喬治亞 | D（Ossoff） | Ossoff (D) vs. Collins (R) | Ossoff 幾乎每份民調都領先 | 偏民主黨 |
+| 密西根 | D（開放席次） | El-Sayed (D) vs. Rogers (R) | 接近 | 共和黨主要翻盤機會 |
+
+- **共和黨守住多數的路徑：** 就算輸掉北卡，只要在緬因、德州、俄亥俄、愛荷華、阿拉斯加這 5 席**守住 3 席**，就能形成 50 對 50，由 Vance 打破平手。如果能拿下密西根，容錯空間更大。
+- **民主黨的路徑：** 守住喬治亞、密西根，拿下北卡，然後在 5 個勝負難分的州**至少拿下 3 席**。
+- 除了緬因之外，這幾個勝負難分的州都是川普 2024 年贏下的紅州或偏紅州。這也是為什麼雖然全國民調民主黨領先約 8 個百分點，參院勝率只有約 55%，遠低於眾院的 76%。
+
+### 3. 川普能怎麼做來保住參院？可能性評估
+
+| 手段 | 可行性 | 選前效果 | 說明 |
+|---|---|---|---|
+| **選前和伊朗達成協議、重開荷莫茲海峽** | 低到中（作者估約 15–25%） | **最大** | 對油價和選情都是最有力的一招。但川普已經拒絕伊朗方案，公開把降油價的時間設在選後。伊朗革命衛隊也公開呼籲美國選民「換掉川普政府」，伊朗沒有動機在選前送川普一場勝利。半島電視台引述的評估也是「選前不太可能達成協議」 |
+| 再度釋出戰略石油儲備（SPR） | 低 | 小 | 最後一批已經宣布，SPR 接近法定下限，彈藥用盡 |
+| 暫停聯邦燃油稅（每加侖 18.4 美分） | 低 | 小 | 需要國會通過。多數黨領袖 Thune 擔心公路信託基金出現缺口，寧可優先重開海峽 |
+| 每人 5,000 美元「紅利」支票 | 不可能在選前發放 | 間接 | 條件是共和黨守住兩院才發，本質上是競選承諾。財源有問題：關稅收入約 3,000 億美元，其中超過 1,000 億已經退還。Collins 等共和黨議員也公開質疑 |
+| 其他行政措施（環保豁免、航運法豁免、施壓產油國增產） | 中 | 小 | 可以在邊際上壓低油價，但抵不過荷莫茲海峽的供給缺口 |
+| 軍事升級，製造「團結在國旗下」效應 | 有可能 | **可能適得其反** | 戰爭已經打了 7 個月，民眾厭戰。2006 年伊拉克戰爭時，共和黨就因厭戰丟了兩院。升級也會推高油價 |
+| 集中輔選紅州（德州、俄亥俄、愛荷華、阿拉斯加） | 高 | 中 | 動員基本盤對紅州有效，但在緬因可能有反效果 |
+
+**時間限制：** 從原油價格反映到加油站價格通常要 2 到 4 週，而且多州已經開始提前投票。就算 10 月中才達成協議，汽油價格在 11/3 前能降的幅度也有限。
+**2022 年先例：** 拜登在 3 月宣布釋出 1.8 億桶 SPR，汽油從 6 月約 5 美元降到 11 月約 3.8 美元，民主黨的期中損失比預期小。這說明壓低油價確實有用，但需要**幾個月**的時間。川普這次的時間和 SPR 彈藥都不夠。
+
+### 4. 情境推演（選前 5 週）
+
+| 情境 | 作者粗估機率 | 油價 | 參院選情 | 股 | 債 | 匯 |
+|---|---|---|---|---|---|---|
+| **A. 選前協議或停火，海峽重開** | ~15–25% | Brent 快速回落（可能降到 80 美元以下），汽油落後反應 | 共和黨守住的機率回升到接近五五波 | 大漲，航空、運輸、消費受惠，能源股回落 | 通膨預期下降，殖利率回落，Fed 再升息的壓力減輕 | 美元偏弱；日圓、歐元、新台幣這些石油進口國貨幣受惠 |
+| **B. 僵持到選後（基本情境）** | ~50–60% | Brent 在 90–110 美元區間震盪，隨談判消息起伏 | 民主黨略佔優（約 55%） | 區間震盪，能源股相對強 | 殖利率維持高檔（約 5%） | 美元偏強（美國是石油淨出口國），石油進口國貨幣承壓 |
+| **C. 升級（攻擊沙烏地、海峽完全封鎖）** | ~20–25% | 120 美元以上（高盛情境） | 共和黨進一步失分，民主黨可能拿下兩院 | 停滯性通膨，修正風險高 | 拉鋸：通膨推升殖利率，避險買盤壓低殖利率 | 避險貨幣（美元、瑞郎）、黃金走強；新台幣、日圓等能源進口國貨幣走弱 |
+
+### 5. 選後的連動：油價可能才是「選後行情」的主角
+
+- **選後協議的可能性不低：** 川普已經公開把結束戰爭、降油價的時間設在選後，美方也說只要核問題有進展，就願意解除制裁、解凍資產。**選後到 2027 年初達成協議**的可能性，明顯高於選前。
+- **如果民主黨拿下參院：**
+  - 會推動**戰爭權力決議**，限制軍事行動。總統可以否決，但政治壓力會上升。
+  - 戰爭追加預算會成為預算談判的籌碼，和 12/11 臨時撥款、2027 年舉債上限綁在一起。
+  - 這可能促使白宮更快和伊朗談成，因為少了國會的支持。
+- **市場意義：** 如果選後出現協議，油價、通膨預期、殖利率會一起下降，Fed 可能從升息轉為觀望。這會讓第四節提到的「選後上漲」歷史規律更容易實現。反過來說，如果戰爭拖到 2027 年，油價維持高檔，Fed 繼續升息，選後行情就會大打折扣。
+
+### 6. 對台灣的延伸
+
+- 台灣幾乎全部能源都靠進口。油價升高會推升進口通膨、壓縮貿易順差，對**新台幣偏空**，對塑化、航空、運輸類股也不利。
+- 如果出現美伊協議（情境 A，或選後協議），新台幣和台股非科技類股會是主要受惠者。
+- 半導體和 AI 供應鏈主要受美國行政面的關稅和出口管制影響，對油價的敏感度相對低。
+
+---
+
+## 九、結論
 
 1. **川普的「立法」議程在民主黨拿下眾院後大概率停擺，但「行政」議程（尤其是關稅）照樣進行。** 政策會變得更單邊、更常上法院，也更難預測。
 2. **歷史告訴我們：** 分裂政府本身對股市不是壞事，選後一年多半上漲。真正的風險是財政期限的對峙，也就是停擺和舉債上限。
@@ -176,6 +255,7 @@
    - 12 月 CR 和 2027 年舉債上限是主要的避險時點。
    - 美元偏向溫和走弱。
    - 長債要看 Fed 臉色，搭配情境調整存續期間。
+   - **油價是選前選後最大的共同變數**：選後如果達成美伊協議，可能同時帶動油價、通膨預期和殖利率下降。
 
 ---
 
@@ -186,4 +266,6 @@
 - 關稅：[SCOTUSblog – Supreme Court strikes down tariffs](https://www.scotusblog.com/2026/02/supreme-court-strikes-down-tariffs/)、[Holland & Knight – IEEPA ruling](https://www.hklaw.com/en/insights/publications/2026/02/supreme-court-strikes-down-ieepa-tariffs)、[Honigman – Section 301 replaces Section 122](https://www.honigman.com/alert-3462)
 - 利率與匯率：[CNBC – 10-year yield back to 5% after Fed hike](https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html)、[CNBC – Higher Treasury yields reality check](https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html)、[Trading Economics – DXY](https://tradingeconomics.com/dxy:cur)
 - 市場歷史：[Morgan Stanley – Midterm market impact 2026](https://www.morganstanley.com/insights/articles/2026-midterm-elections-market-impact-investor-outlook)、[Morgan Stanley – Stock market impact](https://www.morganstanley.com/insights/articles/2026-us-midterm-elections-stock-market-impact)、[Fidelity – Midterms and stocks](https://www.fidelity.com/learning-center/trading-investing/the-surprising-truth-about-midterms-and-stocks)、[Capital Group – Midterms in 5 charts](https://www.capitalgroup.com/advisor/insights/articles/midterm-elections-markets-5-charts.html)、[Saxo – What outcomes could mean for markets](https://www.home.saxo/learn/guides/us-election/2026-us-midterm-elections-what-different-outcomes-could-mean-for-markets)、[BlackRock – Midterms and market performance](https://www.blackrock.com/us/financial-professionals/insights/2026-midterm-elections-and-market-performance)
+- 石油與美伊：[CNBC – US crude tops $100 as market braces for prolonged Iran war](https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html)、[CNBC – Trump says oil prices won't fall until after midterms](https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html)、[CNBC – Trump sees Iran war ending soon after midterms](https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html)、[Bloomberg – Trump rejects Iran proposal to reopen Hormuz](https://www.bloomberg.com/news/articles/2026-09-26/trump-says-he-rejected-latest-iran-proposal-to-reopen-hormuz)、[Al Jazeera – US-Iran talks in New York](https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest)、[Al Jazeera – Deal unlikely before midterms](https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections)、[Al Jazeera – IRGC appeals to US voters](https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters)、[Bloomberg – More SPR oil as fuel prices climb](https://www.bloomberg.com/news/articles/2026-09-29/us-to-tap-more-oil-from-emergency-reserve-as-fuel-prices-surge)、[World Oil – Another 40 MMbbl SPR release](https://www.worldoil.com/news/2026/9/29/u-s-to-release-another-40-mmbbl-from-reserve-as-fuel-prices-surge/)、[NBC – Gas prices near year high before midterms](https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523)、[Trading Economics – Brent](https://tradingeconomics.com/commodity/brent-crude-oil)
+- 參議院選情與川普選前政策：[The Hill – NYT/Siena Senate polls](https://thehill.com/homenews/campaign/5949463-texas-maine-iowa-ohio-alaska-senate-races/)、[DDHQ – 8 Senate races that decide the majority](https://decisiondeskhq.substack.com/p/senate-polls-2026-midterm-maine-north-carolina-iowa-texas-alaska-ohio-georgia-michigan)、[Roll Call – Most vulnerable senators](https://rollcall.com/2026/09/30/most-vulnerable-senators-election-day/)、[Forbes – Hottest midterm races](https://forbes.com/sites/saradorn/2026/09/30/hottest-2026-midterm-races-democrat-sherrod-brown-up-3-points-in-ohio-senate-race-updated-daily)、[CNBC – $1 trillion-plus midterm dividend plan](https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html)、[Axios – $5,000 checks after midterms](https://www.axios.com/2026/09/10/trump-5k-5000-dividend-checks-midterms)
 - 歷史案例（1994、2006、2010、2018、2022）的指數與殖利率為作者整理的約略值，建議用 FRED 或 Bloomberg 核對精確數字。
