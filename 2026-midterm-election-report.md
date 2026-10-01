@@ -7,7 +7,7 @@
 
 ## 一、重點摘要
 
-1. **選情：民主黨明顯佔優。** Decision Desk HQ 模型（9/29）估算，民主黨拿下眾議院的機率約 **76%**，拿下參議院約 **55%**。全國不分區國會選票（generic ballot）平均民主黨領先約 **8 個百分點**。川普支持度約 37%，淨支持度約 −22，都是本任期新低。
+1. **選情：民主黨明顯佔優。** 綜合各家預測（見第二節對照表），民主黨拿下眾議院的機率約 **75%–92%**，拿下參議院約 **55%–65%**。其中 Decision Desk HQ 模型最保守（眾院 76%、參院 55%），預測市場最樂觀。全國不分區國會選票（generic ballot）平均民主黨領先約 **8 個百分點**。川普支持度約 37%，淨支持度約 −22，都是本任期新低。
 2. **政策：「立法」會卡住，「行政」照樣推。** 只要民主黨拿下眾議院，減稅 2.0、第二輪預算調和（reconciliation）這類需要國會通過的議程幾乎都會停下來。不過關稅（Section 232/301）、移民、鬆綁法規這些靠行政權推動的政策，國會很難擋，因為否決總統的否決權要三分之二多數。所以政策會「更依賴行政命令、打更多官司、波動更大」，不會全面停擺。
 3. **最大的市場風險在財政時程，而不是選舉結果本身。** 12/11 臨時撥款（CR）到期，2027 年要處理舉債上限（目前上限 41.1 兆美元）。反對黨控制眾議院時，2011 年和 2023 年都出現舉債上限對峙，也都伴隨美國主權評等被調降。
 4. **市場歷史規律：**
@@ -28,14 +28,36 @@
 | 個別民調 | Quinnipiac D+12、Economist/YouGov D+15、Emerson D+11 | |
 | 川普支持度 | ~37% 支持 / ~60% 不支持 | 各家平均。Verasight 單一民調低到 33% |
 
+### 多家預測對照（截至 2026-09-30）
+
+| 來源 | 類型 | 民主黨拿下眾院 | 民主黨拿下參院 | 備註 |
+|---|---|---|---|---|
+| **Decision Desk HQ / The Hill** | 量化模型 | ~75–76% | ~55%（預估 51 席） | 每天更新，每次模擬 100 萬次。混合基本面、民調和**預測市場**數據 |
+| **Silver Bulletin**（Nate Silver） | 量化模型 | ~87%（預估 D 233 : R 202） | ~57–65% | 不同版本、日期的數字不同：9/14 約 58.6%，9/20 Deluxe 版 65% |
+| **Kalshi** | 預測市場 | ~92% | ~62–63% | 參院機率從 9/14 起上升 14 個百分點。**民主黨拿下兩院 62%，共和黨守住兩院僅 8%** |
+| **Polymarket** | 預測市場 | ~92% | ~63% | 眾院合約交易量超過 3,800 萬美元 |
+| **Cook Political Report** | 專家評等（不給機率） | 至少偏 D 206、至少偏 R 208、勝負難分 21 | 勝負難分 7 席 | 創辦人 Charlie Cook（9/27）說眾院「早就大局已定」，預期民主黨眾院 +20 席左右、參院 +4~5 席。9/23 把喬治亞上調為「可能 D」 |
+| **Sabato's Crystal Ball** | 專家評等（不給機率） | D 210、R 203、勝負難分 22 | 勝負難分 5 席 | 9/22 把愛荷華調為勝負難分、密西根調為偏 D |
+
+**怎麼讀這張表：**
+- **眾院：** 所有來源一致看好民主黨，差別只在信心程度（75% 到 92%）。Cook 創辦人更直言眾院「大局已定」，共識相當強。
+- **參院：** 各家都落在 55% 到 65%，代表**略偏民主黨，但仍有很大的不確定性**。關鍵仍是第八節列出的緬因、德州、俄亥俄、愛荷華、阿拉斯加 5 席。
+- **DDHQ 為什麼比較保守（推測）：** 它的基本面以各州上一次總統選舉的政黨傾向為基準，再加上現任者優勢。今年參院戰場多在川普贏過的州，可能因此壓低了民主黨勝率。
+- **注意「看起來一致」的假象：** DDHQ 模型本身納入了 Kalshi 和 Polymarket 的數據，所以它和預測市場並非完全獨立的兩個訊號。
+- **預測市場的限制：**
+  - 交易者結構偏向特定族群，在消息面上容易反應過度。
+  - 2022 年選前，市場和部分預測者就高估了「紅色浪潮」。
+
 ### 情境機率（作者依模型粗估，兩院結果有相關性）
 
 | 情境 | 粗估機率 | 簡述 |
 |---|---|---|
-| A. 民主黨拿下兩院 | ~50% | 立法全面停擺，預算、人事、調查三路施壓 |
+| A. 民主黨拿下兩院 | ~50–60% | 立法全面停擺，預算、人事、調查三路施壓 |
 | B. 民主黨只拿眾院、共和黨守住參院 | ~25% | 類似 2018 年。人事任命照常通過，立法卡住 |
-| C. 共和黨守住兩院 | ~20–25% | 延續現狀，可能再推一輪預算調和／減稅 |
+| C. 共和黨守住兩院 | ~10–20% | 延續現狀，可能再推一輪預算調和／減稅 |
 | D. 共和黨守眾院、失參院 | 低 | 人事任命受阻，立法仍然困難 |
+
+> 9/30 依多家預測更新：模型較保守，預測市場較樂觀（Kalshi：民主黨拿下兩院 62%、共和黨守住兩院 8%），因此 A、C 改用區間表示，第五節的情境機率也同步更新。
 
 **歷史基準：** 二戰以來，總統所屬政黨在期中選舉平均輸掉約 25 席以上眾議院席次。只有 1998、2002 年是例外。總統支持度低於 45% 時，輸的幅度通常更大，例如 1994 年 −54 席、2010 年 −63 席、2018 年 −40 席。
 
@@ -101,7 +123,7 @@
 
 ## 五、對股、債、匯的影響（依情境）
 
-### 情境 A／B：民主黨拿下眾院（或兩院）— 機率合計約 75%
+### 情境 A／B：民主黨拿下眾院（或兩院）— 機率合計約 75–90%
 
 **美股**
 - 短期：選舉不確定性消除後，通常有一波解除風險的反彈。但如果 12/11 CR 談判破局、出現停擺，11–12 月可能有 2018 年第四季那種震盪。
@@ -123,7 +145,7 @@
 - 如果白宮為了繞過國會，更激進地動用關稅或施壓 Fed，可能重演 2025 年 4 月「股、債、匯三殺」（Sell America）的走勢。這時避險資金會流向日圓、瑞郎和黃金。
 - 另一種看法：兩院全失可能引發更大規模赤字的疑慮（Saxo 等機構的觀點）。不過從立法機制看，民主黨國會很難在川普任內通過大規模支出，我們認為**財政收斂的效果比較大**。
 
-### 情境 C：共和黨守住兩院 — 機率約 20–25%
+### 情境 C：共和黨守住兩院 — 機率約 10–20%
 
 - **美股：** 短線利多，市場會開始交易減稅延長、法規鬆綁。能源、金融（銀行、券商）相對受惠。
 - **美債：** **利空長端**。在 10 年債已經約 5% 的情況下，再推一輪預算調和或減稅，會推高赤字與期限溢酬，殖利率曲線偏陡。若再疊加 Fed 升息，股債同時承壓的風險上升。
@@ -262,6 +284,7 @@
 ## 資料來源
 
 - 選情與民調：[Decision Desk HQ 2026 Forecast](https://votes.decisiondeskhq.com/forecast/2026)、[Silver Bulletin Midterm Model](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model)、[Emerson College Sept 2026 Poll](https://emersoncollegepolling.com/september-2026-national-poll-democrats/)、[Political Wire（generic ballot）](https://politicalwire.com/2026/09/29/democrats-hold-wide-lead-on-generic-ballot/)、[US Polling Data – Generic Ballot Sept 2026](https://uspollingdata.com/news/generic-ballot-democrats-lead-widens-september-2026/)、[Strength In Numbers/Verasight Poll](https://www.gelliottmorris.com/p/2026-09-23-september-strength-in-numbers-verasight-poll-release)、[Silver Bulletin Trump Approval](https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin)
+- 多家預測對照：[DDHQ 2026 Forecast](https://votes.decisiondeskhq.com/forecast/2026)、[DDHQ – Forecast intro & methodology](https://decisiondeskhq.substack.com/p/2026-election-forecast-intro-part-1-senate-house-overall-redistricting)、[The Hill – 2026 House Predictions](https://elections2026.thehill.com/forecast/2026/house/)、[Silver Bulletin Forecast](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model)、[Newsweek – Nate Silver Senate forecast shift](https://www.newsweek.com/democrats-chances-winning-senate-shift-nate-silver-forecast-12442493)、[Kalshi – Democrats' Senate odds jump to 63%](https://news.kalshi.com/p/democrats-midterm-senate-odds-jump-to-63-up-14-points-since-mid-september)、[CNBC – Prediction markets favor Democrats for Senate](https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html)、[The Hill – Prediction markets midterm bets](https://thehill.com/policy/technology/5965133-kalshi-polymarket-midterm-predictions/)、[Forbes – Forecasters: House flip a "done deal"](https://www.forbes.com/sites/saradorn/2026/09/28/election-forecasters-predict-democrats-win-back-the-house-done-deal/)、[The Hill – Cook predicts Democratic wins](https://thehill.com/homenews/campaign/6113673-cook-predicts-democratic-midterm-wins/)、[Cook Political Report Senate Ratings（270toWin）](https://www.270towin.com/2026-senate-election/cook-political-report-2026-senate)、[Sabato's Crystal Ball – 2026 Rating Changes](https://centerforpolitics.org/crystalball/2026-rating-changes/)、[270toWin – Consensus Senate Forecast](https://www.270towin.com/2026-senate-election/consensus-2026-senate-forecast)
 - 財政與政策：[CNBC – Trump, the debt ceiling and chaos](https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html)、[CNBC – Election could make next fiscal crisis harder](https://www.cnbc.com/2026/09/14/election-debt-limit-fiscal-crisis-congress.html)、[Roll Call – Debt limit fight awaits Congress](https://rollcall.com/2026/09/09/unsustainable-fiscal-path-debt-limit-fight-awaits-congress/)、[NPR – Congress averts shutdown](https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms)
 - 關稅：[SCOTUSblog – Supreme Court strikes down tariffs](https://www.scotusblog.com/2026/02/supreme-court-strikes-down-tariffs/)、[Holland & Knight – IEEPA ruling](https://www.hklaw.com/en/insights/publications/2026/02/supreme-court-strikes-down-ieepa-tariffs)、[Honigman – Section 301 replaces Section 122](https://www.honigman.com/alert-3462)
 - 利率與匯率：[CNBC – 10-year yield back to 5% after Fed hike](https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html)、[CNBC – Higher Treasury yields reality check](https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html)、[Trading Economics – DXY](https://tradingeconomics.com/dxy:cur)
