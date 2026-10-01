@@ -1,4 +1,4 @@
-# 2026 美國期中選舉報告：川普政策會不會窒礙難行？對股、債、匯的影響
+# 2026 美國期中選舉報告：川普政策會不會窒礙難行？對股、債的影響
 
 > 資料截至 2026-09-30（第八節石油、美伊與參院攻防更新至 2026-10-01）。本報告結合最新民調、預測模型與市場數據，並參考 1994、2006、2010、2018、2022 年等期中選舉的經驗。
 > 本報告僅供研究參考，不構成投資建議。歷史數據多為約略值，實際操作前請再核對。
@@ -134,21 +134,20 @@
 
 ### 1. 重點案例
 
-| 年份 | 總統 | 期中結果 | 之後的政策發展 | S&P 500（選後約 12 個月） | 10 年期美債 | 美元 |
-|---|---|---|---|---|---|---|
-| **1994** | 柯林頓 (D) | 共和黨拿下兩院（眾院 −54） | 1995–96 政府兩度停擺，1997 年達成平衡預算協議 | 約 +25%（1995 全年 +34%） | 1995 年從約 7.8% 降到 5.6%（Fed 轉向降息） | 上半年弱（日圓升到 79.75），下半年反彈 |
-| **2006** | 小布希 (R) | 民主黨拿下兩院 | 伊拉克戰爭預算攻防，大型改革停擺 | 約 +10%（2007 全年 +3.5%，之後次貸危機） | 4.7% 降到 4.0% | DXY 全年約 −8% |
-| **2010** | 歐巴馬 (D) | 共和黨拿下眾院（−63） | **2011 年舉債上限危機**，8/5 標普把美國評等降到 AA+，2013 年自動減支（sequester） | 約 +3%（2011 年一度回檔近 20%） | 3.3% 降到 1.9%（避險買盤） | 美元小幅走強，日圓創歷史新高、瑞士法郎釘住歐元 |
-| **2018** | 川普 (R) | 民主黨拿下眾院（−40），共和黨參院 +2 | 2018/12–2019/1 停擺 35 天（史上最長）。2019 年通過 USMCA、兩黨預算協議**順利暫停舉債上限**。同年底彈劾 | 約 +12%（2019 全年 +28.9%） | 2.7% 降到 1.9%（Fed 2019 年降息三次） | DXY 大致持平 |
-| **2022** | 拜登 (D) | 共和黨拿下眾院（−9） | **2023 年舉債上限對峙**，6 月才通過《財政責任法》。8 月惠譽降評，10 月 10 年債碰到 5% | 約 +14%（2023 全年 +24%） | 全年大致持平，但一度升到 5% | DXY 全年約 −2% |
+| 年份 | 總統 | 期中結果 | 之後的政策發展 | S&P 500（選後約 12 個月） | 10 年期美債 |
+|---|---|---|---|---|---|
+| **1994** | 柯林頓 (D) | 共和黨拿下兩院（眾院 −54） | 1995–96 政府兩度停擺，1997 年達成平衡預算協議 | 約 +25%（1995 全年 +34%） | 1995 年從約 7.8% 降到 5.6%（Fed 轉向降息） |
+| **2006** | 小布希 (R) | 民主黨拿下兩院 | 伊拉克戰爭預算攻防，大型改革停擺 | 約 +10%（2007 全年 +3.5%，之後次貸危機） | 4.7% 降到 4.0% |
+| **2010** | 歐巴馬 (D) | 共和黨拿下眾院（−63） | **2011 年舉債上限危機**，8/5 標普把美國評等降到 AA+，2013 年自動減支（sequester） | 約 +3%（2011 年一度回檔近 20%） | 3.3% 降到 1.9%（避險買盤） |
+| **2018** | 川普 (R) | 民主黨拿下眾院（−40），共和黨參院 +2 | 2018/12–2019/1 停擺 35 天（史上最長）。2019 年通過 USMCA、兩黨預算協議**順利暫停舉債上限**。同年底彈劾 | 約 +12%（2019 全年 +28.9%） | 2.7% 降到 1.9%（Fed 2019 年降息三次） |
+| **2022** | 拜登 (D) | 共和黨拿下眾院（−9） | **2023 年舉債上限對峙**，6 月才通過《財政責任法》。8 月惠譽降評，10 月 10 年債碰到 5% | 約 +14%（2023 全年 +24%） | 全年大致持平，但一度升到 5% |
 
-### 2. 從歷史學到的五件事
+### 2. 從歷史學到的四件事
 
 1. **選後股市多半上漲，但選前和選舉年常有較大回檔。** 1930 年以來 S&P 500 選後 12 個月平均約 +13%，二戰以來幾乎每次都是正報酬。期中選舉年盤中平均最大回檔幅度也是四年循環裡最大的。
 2. **分裂政府 ≠ 市場利空。** 國會卡住代表政策不會突然大轉彎，市場反而喜歡這種穩定。共和黨總統配分裂國會時，選後一年表現最好（約 +23%）。
 3. **真正的尾部風險是舉債上限，而且都發生在「反對黨掌眾院」之後**（2011、2023）。不過 2019 年同樣是分裂政府，卻沒有出現危機。所以關鍵在雙方是否把舉債上限當談判籌碼。
 4. **債市跟 Fed 和經濟走，不太跟選舉走。** 1995、2011、2019 年殖利率大降，主因都是 Fed 轉向或避險需求，不是國會換人。
-5. **美元對期中選舉反應有限。** 較明顯的影響來自「財政預期」和「避險需求」，例如 2011 年危機期間日圓和瑞郎走強。
 
 ### 3. 這次和歷史的差異（為什麼不能照抄歷史）
 
@@ -162,7 +161,7 @@
 
 ---
 
-## 五、對股、債、匯的影響（依情境）
+## 五、對股、債的影響（依情境）
 
 ### 情境 A／B：民主黨拿下眾院（或兩院）— 機率合計約 75–90%
 
@@ -181,16 +180,10 @@
   - 可能再有評等行動，重演 2011、2023 年的劇本。
 - 如果民主黨也拿下參院，Fed 理事提名受阻，市場反而可能把這解讀為 **Fed 獨立性得到保障**，對長端有利。
 
-**美元**
-- 財政擴張預期降低，利差優勢縮小，美元偏向溫和走弱。
-- 如果白宮為了繞過國會，更激進地動用關稅或施壓 Fed，可能重演 2025 年 4 月「股、債、匯三殺」（Sell America）的走勢。這時避險資金會流向日圓、瑞郎和黃金。
-- 另一種看法：兩院全失可能引發更大規模赤字的疑慮（Saxo 等機構的觀點）。不過從立法機制看，民主黨國會很難在川普任內通過大規模支出，我們認為**財政收斂的效果比較大**。
-
 ### 情境 C：共和黨守住兩院 — 機率約 10–20%
 
 - **美股：** 短線利多，市場會開始交易減稅延長、法規鬆綁。能源、金融（銀行、券商）相對受惠。
 - **美債：** **利空長端**。在 10 年債已經約 5% 的情況下，再推一輪預算調和或減稅，會推高赤字與期限溢酬，殖利率曲線偏陡。若再疊加 Fed 升息，股債同時承壓的風險上升。
-- **美元：** 短線偏強（利差），中期取決於市場對財政可持續性的信心。
 - **關稅：** 國會有機會把部分關稅立法化，政策延續性提高。
 
 ### 綜合矩陣
@@ -200,8 +193,7 @@
 | 美股整體 | 中性偏多（停擺、舉債上限是風險） | **偏多**（歷史表現最佳） | 短多，但利率是逆風 |
 | 10 年期美債（價格） | 偏多 | 偏多 | **偏空** |
 | 殖利率曲線 | 偏平 | 偏平 | 偏陡 |
-| 美元（DXY） | 溫和偏弱 | 中性偏弱 | 短線偏強 |
-| 黃金、日圓、瑞郎 | 舉債上限風險時受惠 | 中性 | 財政疑慮時受惠 |
+| 黃金 | 舉債上限風險時受惠 | 中性 | 財政疑慮時受惠 |
 | 政策波動（行政命令、官司） | 高 | 高 | 中 |
 
 ---
@@ -209,7 +201,6 @@
 ## 六、對台灣投資人的延伸觀察
 
 - **半導體和科技供應鏈：** Section 232 半導體關稅和出口管制都是行政權，**選舉結果改變不了**。CHIPS 法案相關補貼由兩黨共同支持，被推翻的風險低。
-- **新台幣：** 美元溫和走弱的情境下，新台幣偏強。要留意壽險業外匯避險調整造成的急升，2025 年 5 月初就曾出現單日大漲。
 - **美債部位：** 如果市場開始交易分裂政府加上財政收斂，長債有反彈機會。但 Fed 仍在升息循環中，布局節奏應該跟著 Fed 走，而不是跟著選舉走。
 
 ---
@@ -227,7 +218,7 @@
 | 2027/1/3 | 新國會就任 | 各委員會主席、調查議程 |
 | **2027 年（待定）** | 舉債上限 X-date | T-bill 利差、CDS、評等機構動態 |
 
-**建議追蹤的指標：** generic ballot 與參院搖擺州民調、預測市場賠率、10 年期殖利率與期限溢酬、DXY、美國 5 年 CDS、VIX、1–3 個月 T-bill 利差。
+**建議追蹤的指標：** generic ballot 與參院搖擺州民調、預測市場賠率、10 年期殖利率與期限溢酬、美國 5 年 CDS、VIX、1–3 個月 T-bill 利差。
 
 ---
 
@@ -285,11 +276,11 @@
 
 ### 4. 情境推演（選前 5 週）
 
-| 情境 | 作者粗估機率 | 油價 | 參院選情 | 股 | 債 | 匯 |
-|---|---|---|---|---|---|---|
-| **A. 選前協議或停火，海峽重開** | ~15–25% | Brent 快速回落（可能降到 80 美元以下），汽油落後反應 | 共和黨守住的機率回升到接近五五波 | 大漲，航空、運輸、消費受惠，能源股回落 | 通膨預期下降，殖利率回落，Fed 再升息的壓力減輕 | 美元偏弱；日圓、歐元、新台幣這些石油進口國貨幣受惠 |
-| **B. 僵持到選後（基本情境）** | ~50–60% | Brent 在 90–110 美元區間震盪，隨談判消息起伏 | 民主黨略佔優（約 55%） | 區間震盪，能源股相對強 | 殖利率維持高檔（約 5%） | 美元偏強（美國是石油淨出口國），石油進口國貨幣承壓 |
-| **C. 升級（攻擊沙烏地、海峽完全封鎖）** | ~20–25% | 120 美元以上（高盛情境） | 共和黨進一步失分，民主黨可能拿下兩院 | 停滯性通膨，修正風險高 | 拉鋸：通膨推升殖利率，避險買盤壓低殖利率 | 避險貨幣（美元、瑞郎）、黃金走強；新台幣、日圓等能源進口國貨幣走弱 |
+| 情境 | 作者粗估機率 | 油價 | 參院選情 | 股 | 債 |
+|---|---|---|---|---|---|
+| **A. 選前協議或停火，海峽重開** | ~15–25% | Brent 快速回落（可能降到 80 美元以下），汽油落後反應 | 共和黨守住的機率回升到接近五五波 | 大漲，航空、運輸、消費受惠，能源股回落 | 通膨預期下降，殖利率回落，Fed 再升息的壓力減輕 |
+| **B. 僵持到選後（基本情境）** | ~50–60% | Brent 在 90–110 美元區間震盪，隨談判消息起伏 | 民主黨略佔優（約 55%） | 區間震盪，能源股相對強 | 殖利率維持高檔（約 5%） |
+| **C. 升級（攻擊沙烏地、海峽完全封鎖）** | ~20–25% | 120 美元以上（高盛情境） | 共和黨進一步失分，民主黨可能拿下兩院 | 停滯性通膨，修正風險高 | 拉鋸：通膨推升殖利率，避險買盤壓低殖利率 |
 
 ### 5. 選後的連動：油價可能才是「選後行情」的主角
 
@@ -302,8 +293,8 @@
 
 ### 6. 對台灣的延伸
 
-- 台灣幾乎全部能源都靠進口。油價升高會推升進口通膨、壓縮貿易順差，對**新台幣偏空**，對塑化、航空、運輸類股也不利。
-- 如果出現美伊協議（情境 A，或選後協議），新台幣和台股非科技類股會是主要受惠者。
+- 台灣幾乎全部能源都靠進口。油價升高會推升進口通膨、壓縮貿易順差，對塑化、航空、運輸類股不利。
+- 如果出現美伊協議（情境 A，或選後協議），台股非科技類股會是主要受惠者。
 - 半導體和 AI 供應鏈主要受美國行政面的關稅和出口管制影響，對油價的敏感度相對低。
 
 ---
@@ -316,7 +307,6 @@
 4. **操作思路（非投資建議）：**
    - 選前控制波動；選後留意解除不確定性的反彈。
    - 12 月 CR 和 2027 年舉債上限是主要的避險時點。
-   - 美元偏向溫和走弱。
    - 長債要看 Fed 臉色，搭配情境調整存續期間。
    - **油價是選前選後最大的共同變數**：選後如果達成美伊協議，可能同時帶動油價、通膨預期和殖利率下降。
 
@@ -328,7 +318,7 @@
 - 多家預測對照：[DDHQ 2026 Forecast](https://votes.decisiondeskhq.com/forecast/2026)、[DDHQ – Forecast intro & methodology](https://decisiondeskhq.substack.com/p/2026-election-forecast-intro-part-1-senate-house-overall-redistricting)、[The Hill – 2026 House Predictions](https://elections2026.thehill.com/forecast/2026/house/)、[Silver Bulletin Forecast](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model)、[Newsweek – Nate Silver Senate forecast shift](https://www.newsweek.com/democrats-chances-winning-senate-shift-nate-silver-forecast-12442493)、[Kalshi – Democrats' Senate odds jump to 63%](https://news.kalshi.com/p/democrats-midterm-senate-odds-jump-to-63-up-14-points-since-mid-september)、[CNBC – Prediction markets favor Democrats for Senate](https://www.cnbc.com/2026/09/16/prediction-markets-say-democrats-are-slightly-favored-to-win-senate.html)、[The Hill – Prediction markets midterm bets](https://thehill.com/policy/technology/5965133-kalshi-polymarket-midterm-predictions/)、[Forbes – Forecasters: House flip a "done deal"](https://www.forbes.com/sites/saradorn/2026/09/28/election-forecasters-predict-democrats-win-back-the-house-done-deal/)、[The Hill – Cook predicts Democratic wins](https://thehill.com/homenews/campaign/6113673-cook-predicts-democratic-midterm-wins/)、[Cook Political Report Senate Ratings（270toWin）](https://www.270towin.com/2026-senate-election/cook-political-report-2026-senate)、[Sabato's Crystal Ball – 2026 Rating Changes](https://centerforpolitics.org/crystalball/2026-rating-changes/)、[270toWin – Consensus Senate Forecast](https://www.270towin.com/2026-senate-election/consensus-2026-senate-forecast)
 - 財政與政策：[CNBC – Trump, the debt ceiling and chaos](https://www.cnbc.com/2026/08/25/trump-debt-ceiling-markets-midterm-election.html)、[CNBC – Election could make next fiscal crisis harder](https://www.cnbc.com/2026/09/14/election-debt-limit-fiscal-crisis-congress.html)、[Roll Call – Debt limit fight awaits Congress](https://rollcall.com/2026/09/09/unsustainable-fiscal-path-debt-limit-fight-awaits-congress/)、[NPR – Congress averts shutdown](https://www.npr.org/2026/09/01/nx-s1-5951536/house-government-funding-vote-midterms)
 - 關稅：[SCOTUSblog – Supreme Court strikes down tariffs](https://www.scotusblog.com/2026/02/supreme-court-strikes-down-tariffs/)、[Holland & Knight – IEEPA ruling](https://www.hklaw.com/en/insights/publications/2026/02/supreme-court-strikes-down-ieepa-tariffs)、[Honigman – Section 301 replaces Section 122](https://www.honigman.com/alert-3462)
-- 利率與匯率：[CNBC – 10-year yield back to 5% after Fed hike](https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html)、[CNBC – Higher Treasury yields reality check](https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html)、[Trading Economics – DXY](https://tradingeconomics.com/dxy:cur)
+- 利率：[CNBC – 10-year yield back to 5% after Fed hike](https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html)、[CNBC – Higher Treasury yields reality check](https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html)
 - 市場歷史：[Morgan Stanley – Midterm market impact 2026](https://www.morganstanley.com/insights/articles/2026-midterm-elections-market-impact-investor-outlook)、[Morgan Stanley – Stock market impact](https://www.morganstanley.com/insights/articles/2026-us-midterm-elections-stock-market-impact)、[Fidelity – Midterms and stocks](https://www.fidelity.com/learning-center/trading-investing/the-surprising-truth-about-midterms-and-stocks)、[Capital Group – Midterms in 5 charts](https://www.capitalgroup.com/advisor/insights/articles/midterm-elections-markets-5-charts.html)、[Saxo – What outcomes could mean for markets](https://www.home.saxo/learn/guides/us-election/2026-us-midterm-elections-what-different-outcomes-could-mean-for-markets)、[BlackRock – Midterms and market performance](https://www.blackrock.com/us/financial-professionals/insights/2026-midterm-elections-and-market-performance)
 - 石油與美伊：[CNBC – US crude tops $100 as market braces for prolonged Iran war](https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html)、[CNBC – Trump says oil prices won't fall until after midterms](https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html)、[CNBC – Trump sees Iran war ending soon after midterms](https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html)、[Bloomberg – Trump rejects Iran proposal to reopen Hormuz](https://www.bloomberg.com/news/articles/2026-09-26/trump-says-he-rejected-latest-iran-proposal-to-reopen-hormuz)、[Al Jazeera – US-Iran talks in New York](https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest)、[Al Jazeera – Deal unlikely before midterms](https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections)、[Al Jazeera – IRGC appeals to US voters](https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters)、[Bloomberg – More SPR oil as fuel prices climb](https://www.bloomberg.com/news/articles/2026-09-29/us-to-tap-more-oil-from-emergency-reserve-as-fuel-prices-surge)、[World Oil – Another 40 MMbbl SPR release](https://www.worldoil.com/news/2026/9/29/u-s-to-release-another-40-mmbbl-from-reserve-as-fuel-prices-surge/)、[NBC – Gas prices near year high before midterms](https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523)、[Trading Economics – Brent](https://tradingeconomics.com/commodity/brent-crude-oil)
 - 參議院選情與川普選前政策：[The Hill – NYT/Siena Senate polls](https://thehill.com/homenews/campaign/5949463-texas-maine-iowa-ohio-alaska-senate-races/)、[DDHQ – 8 Senate races that decide the majority](https://decisiondeskhq.substack.com/p/senate-polls-2026-midterm-maine-north-carolina-iowa-texas-alaska-ohio-georgia-michigan)、[Roll Call – Most vulnerable senators](https://rollcall.com/2026/09/30/most-vulnerable-senators-election-day/)、[Forbes – Hottest midterm races](https://forbes.com/sites/saradorn/2026/09/30/hottest-2026-midterm-races-democrat-sherrod-brown-up-3-points-in-ohio-senate-race-updated-daily)、[CNBC – $1 trillion-plus midterm dividend plan](https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html)、[Axios – $5,000 checks after midterms](https://www.axios.com/2026/09/10/trump-5k-5000-dividend-checks-midterms)
