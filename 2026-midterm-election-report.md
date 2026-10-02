@@ -59,7 +59,7 @@
 
 > 9/30 依多家預測更新：模型較保守，預測市場較樂觀（Kalshi：民主黨拿下兩院 62%、共和黨守住兩院 8%），因此 A、C 改用區間表示，第五節的情境機率也同步更新。
 
-**歷史基準：** 二戰以來，總統所屬政黨在期中選舉平均輸掉約 25 席以上眾議院席次。只有 1998、2002 年是例外。總統支持度低於 45% 時，輸的幅度通常更大，例如 1994 年 −54 席、2010 年 −63 席、2018 年 −40 席。
+**歷史基準：** 二戰以來，總統所屬政黨在期中選舉平均輸掉約 25 席以上眾議院席次。只有 1998、2002 年是例外。總統支持度低於 45% 時，輸的幅度通常更大，例如 1994 年 −54 席、2010 年 −63 席、2018 年 −41 席。
 
 ### 參眾兩院有什麼差異？（讀懂選情與政策影響的基礎）
 
@@ -139,27 +139,28 @@
 | **1994** | 柯林頓 (D) | 共和黨拿下兩院（眾院 −54） | 1995–96 政府兩度停擺，1997 年達成平衡預算協議 | 約 +25%（1995 全年 +34%） | 1995 年從約 7.8% 降到 5.6%（Fed 轉向降息） |
 | **2006** | 小布希 (R) | 民主黨拿下兩院 | 伊拉克戰爭預算攻防，大型改革停擺 | 約 +10%（2007 全年 +3.5%，之後次貸危機） | 4.7% 降到 4.0% |
 | **2010** | 歐巴馬 (D) | 共和黨拿下眾院（−63） | **2011 年舉債上限危機**，8/5 標普把美國評等降到 AA+，2013 年自動減支（sequester） | 約 +3%（2011 年一度回檔近 20%） | 3.3% 降到 1.9%（避險買盤） |
-| **2018** | 川普 (R) | 民主黨拿下眾院（−40），共和黨參院 +2 | 2018/12–2019/1 停擺 35 天（史上最長）。2019 年通過 USMCA、兩黨預算協議**順利暫停舉債上限**。同年底彈劾 | 約 +12%（2019 全年 +28.9%） | 2.7% 降到 1.9%（Fed 2019 年降息三次） |
+| **2018** | 川普 (R) | 民主黨拿下眾院（−41），共和黨參院 +2 | 2018/12–2019/1 停擺 35 天（史上最長）。2019 年通過 USMCA、兩黨預算協議**順利暫停舉債上限**。同年底彈劾 | 約 +12%（2019 全年 +28.9%） | 2.7% 降到 1.9%（Fed 2019 年降息三次） |
 | **2022** | 拜登 (D) | 共和黨拿下眾院（−9） | **2023 年舉債上限對峙**，6 月才通過《財政責任法》。8 月惠譽降評，10 月 10 年債碰到 5% | 約 +14%（2023 全年 +24%） | 全年大致持平，但一度升到 5% |
 
 ### 2. 2018 年案例細看：川普第一任如何繞過國會
 
-2018 年期中選舉，川普**只輸掉眾院**（−40 席），共和黨在參院反而多拿 2 席，形成分裂國會。2019 年民主黨掌控眾院後，川普大量用行政權繞過國會：
+2018 年期中選舉，川普**只輸掉眾院**（民主黨淨增 41 席；部分統計因計票時點寫 40 席），共和黨在參院反而淨增 2 席，形成分裂國會。2019 年民主黨掌控眾院後，川普大量用行政權繞過國會：
 
-| 事件 | 做法 |
-|---|---|
-| **邊境圍牆** | 35 天停擺後國會不給錢，他在 2019 年 2 月宣布**國家緊急狀態**，挪用國防經費蓋牆。國會兩院通過決議要終止緊急狀態，他動用**第一次否決權**擋下 |
-| **葉門戰爭、對沙烏地軍售** | 國會通過戰爭權力決議和阻止軍售的決議，他都否決了 |
-| **對中國關稅** | 2019 年 5 月起用 Section 301 自行加徵，不需要國會同意 |
-| **威脅對墨西哥加關稅** | 2019 年 5 月用緊急經濟權力法（IEEPA）施壓墨西哥處理移民問題 |
-| **拒絕國會調查** | 白宮拒絕配合眾院傳喚，阻止官員作證。這也成了 2019 年底彈劾案的「妨礙國會」罪名 |
+| 事件 | 時間 | 做法與結果 |
+|---|---|---|
+| **邊境圍牆** | 2019/2–7 | 2018/12/22–2019/1/25 停擺 35 天後，國會仍不給足經費。川普在 2/15 宣布**國家緊急狀態**，挪用國防經費蓋牆，其中約 36 億美元來自軍事工程預算。眾院在 2/26 以 245–182、參院在 3/14 以 59–41（12 名共和黨參議員倒戈）通過決議終止緊急狀態。川普在 3/15 動用任內**第一次否決權**，眾院 3/26 推翻否決只拿到 248 票，未達三分之二（290 票）。最高法院在 7/26 允許政府先動用國防經費 |
+| **葉門戰爭** | 2019/4 | 國會通過戰爭權力決議（S.J.Res.7），要求停止支援沙烏地在葉門的軍事行動。川普在 4/16 否決（任內第二次否決），參院推翻否決只拿到 53 票，未達 67 票 |
+| **對沙烏地、阿聯軍售** | 2019/7 | 政府以緊急狀態為由繞過國會審查軍售。國會通過 3 項阻止軍售的決議，川普在 7/24 全部否決 |
+| **對中國關稅** | 2019/5 | 對中關稅從 2018 年就開始。2019/5/10 依 Section 301 把約 2,000 億美元中國商品的關稅從 10% 調高到 25%，不需要國會同意 |
+| **威脅對墨西哥加關稅** | 2019/5–6 | 5/30 宣布依緊急經濟權力法（IEEPA）對所有墨西哥商品課關稅：6/10 起 5%，逐月提高到最高 25%，直到墨西哥擋下非法移民。6/7 雙方達成協議，關稅「無限期暫停」。（附帶一提：這正是 2026 年 2 月被最高法院判定不能用來課關稅的同一部法律） |
+| **拒絕國會調查** | 2019/10–12 | 白宮法律顧問 Cipollone 在 10/8 致函眾院議長，表明不配合彈劾調查，不讓官員作證、不交文件。眾院在 12/18 以 230–197 通過「濫用權力」、以 229–198 通過「妨礙國會」兩項彈劾條款 |
 
-國會兩院雖然都通過了這些決議，但都達不到推翻否決需要的三分之二，所以擋不住。
+國會兩院雖然通過了上面這些決議，但都達不到推翻否決需要的三分之二，所以擋不住。
 
 **但也不是完全不合作：**
-- **2019 年兩黨預算協議**：提高支出上限，順利暫停舉債上限，沒有爆發債務危機。
-- **USMCA（美墨加協定）**：和民主黨眾院談判修改後，2019 年 12 月通過。
-- **2020 年疫情紓困法案（CARES Act）**：兩黨合作通過。
+- **2019 年兩黨預算協議（Bipartisan Budget Act of 2019）**：8/2 簽署，提高支出上限，並把舉債上限**暫停到 2021/7/31**，沒有爆發債務危機。
+- **USMCA（美墨加協定）**：和民主黨眾院談判修改後，眾院在 2019/12/19 以 385–41 通過，參院在 2020/1/16 以 89–10 通過，川普在 2020/1/29 簽署。
+- **2020 年疫情紓困法案（CARES Act）**：約 2.2 兆美元，參院在 3/25 以 96–0 通過，3/27 簽署。
 
 **對 2026 年的意義：** 2019 年的經驗正好支持第三節的結論：**國會換手後，立法卡住，行政照推。** 這次川普手上的行政工具更多：
 - 用 Section 232 和 301 課關稅
@@ -348,4 +349,5 @@
 - 市場歷史：[Morgan Stanley – Midterm market impact 2026](https://www.morganstanley.com/insights/articles/2026-midterm-elections-market-impact-investor-outlook)、[Morgan Stanley – Stock market impact](https://www.morganstanley.com/insights/articles/2026-us-midterm-elections-stock-market-impact)、[Fidelity – Midterms and stocks](https://www.fidelity.com/learning-center/trading-investing/the-surprising-truth-about-midterms-and-stocks)、[Capital Group – Midterms in 5 charts](https://www.capitalgroup.com/advisor/insights/articles/midterm-elections-markets-5-charts.html)、[Saxo – What outcomes could mean for markets](https://www.home.saxo/learn/guides/us-election/2026-us-midterm-elections-what-different-outcomes-could-mean-for-markets)、[BlackRock – Midterms and market performance](https://www.blackrock.com/us/financial-professionals/insights/2026-midterm-elections-and-market-performance)
 - 石油與美伊：[CNBC – US crude tops $100 as market braces for prolonged Iran war](https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html)、[CNBC – Trump says oil prices won't fall until after midterms](https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html)、[CNBC – Trump sees Iran war ending soon after midterms](https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html)、[Bloomberg – Trump rejects Iran proposal to reopen Hormuz](https://www.bloomberg.com/news/articles/2026-09-26/trump-says-he-rejected-latest-iran-proposal-to-reopen-hormuz)、[Al Jazeera – US-Iran talks in New York](https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest)、[Al Jazeera – Deal unlikely before midterms](https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections)、[Al Jazeera – IRGC appeals to US voters](https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters)、[Bloomberg – More SPR oil as fuel prices climb](https://www.bloomberg.com/news/articles/2026-09-29/us-to-tap-more-oil-from-emergency-reserve-as-fuel-prices-surge)、[World Oil – Another 40 MMbbl SPR release](https://www.worldoil.com/news/2026/9/29/u-s-to-release-another-40-mmbbl-from-reserve-as-fuel-prices-surge/)、[NBC – Gas prices near year high before midterms](https://www.nbcnews.com/business/energy/gas-prices-trump-midterms-iran-rcna598523)、[Trading Economics – Brent](https://tradingeconomics.com/commodity/brent-crude-oil)
 - 參議院選情與川普選前政策：[The Hill – NYT/Siena Senate polls](https://thehill.com/homenews/campaign/5949463-texas-maine-iowa-ohio-alaska-senate-races/)、[DDHQ – 8 Senate races that decide the majority](https://decisiondeskhq.substack.com/p/senate-polls-2026-midterm-maine-north-carolina-iowa-texas-alaska-ohio-georgia-michigan)、[Roll Call – Most vulnerable senators](https://rollcall.com/2026/09/30/most-vulnerable-senators-election-day/)、[Forbes – Hottest midterm races](https://forbes.com/sites/saradorn/2026/09/30/hottest-2026-midterm-races-democrat-sherrod-brown-up-3-points-in-ohio-senate-race-updated-daily)、[CNBC – $1 trillion-plus midterm dividend plan](https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html)、[Axios – $5,000 checks after midterms](https://www.axios.com/2026/09/10/trump-5k-5000-dividend-checks-midterms)
+- 2018–2019 年案例查證：[Wikipedia – 2018 United States elections](https://en.wikipedia.org/wiki/2018_United_States_elections)、[NPR – House fails to override veto](https://www.npr.org/2019/03/26/706843365/trumps-national-emergency-stands-as-house-fails-to-override-veto)、[US News – Trump issues first veto](https://www.usnews.com/news/politics/articles/2019-03-15/trump-issues-first-veto-against-resolution-rejecting-emergency-at-southern-border)、[NPR – Supreme Court allows military funds for wall](https://www.npr.org/2019/07/26/745785115/supreme-court-lets-trump-border-wall-move-forward-but-legal-fight-still-looms)、[CNN – Trump vetoes Yemen War Powers Resolution](https://www.cnn.com/2019/04/16/politics/trump-vetoes-yemen-war-powers-resolution)、[NPR – Trump vetoes Saudi arms sales bills](https://www.npr.org/2019/07/25/745200244/trump-vetoes-bills-intended-to-block-arms-sales-to-saudi-arabia)、[Federal Register – Section 301 increase to 25%](https://www.federalregister.gov/documents/2019/05/09/2019-09681/notice-of-modification-of-section-301-action-chinas-acts-policies-and-practices-related-to)、[CRS – Possible tariffs on Mexican goods](https://www.congress.gov/crs-product/IN11130)、[BDO – Mexico tariffs suspended](https://www.bdo.com/insights/tax/tariffs-indefinitely-suspended-on-mexican-imports)、[CBS – White House letter refusing impeachment cooperation](https://www.cbsnews.com/news/white-house-letter-to-nancy-pelosi-white-house-wont-cooperate-with-house-impeachment-inquiry-testimony-documents/)、[GovTrack – Trump impeached Dec 18, 2019](https://www.govtrack.us/posts/514/2019-12-18_president-donald-trump-impeached-for-abuse-of-power-and-obstruction-related-to-seeking-political-favors-from-ukraine)、[GovTrack – Bipartisan Budget Act of 2019](https://www.govtrack.us/congress/bills/116/hr3877)、[CRS – Debt limit suspensions](https://www.congress.gov/crs-product/IN11829)、[CRS – USMCA](https://www.congress.gov/crs-product/R44981)、[Library of Congress – CARES Act signed](https://www.loc.gov/item/global-legal-monitor/2020-03-27/united-states-president-signs-cares-act-in-response-to-coronavirus-pandemic/)
 - 歷史案例（1994、2006、2010、2018、2022）的指數與殖利率為作者整理的約略值，建議用 FRED 或 Bloomberg 核對精確數字。
