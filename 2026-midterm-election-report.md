@@ -1,7 +1,65 @@
 # 2026 美國期中選舉報告：川普政策會不會窒礙難行？對股、債的影響
 
-> 資料截至 2026-09-30（第八節石油、美伊與參院攻防更新至 2026-10-01）。本報告結合最新民調、預測模型與市場數據，並參考 1994、2006、2010、2018、2022 年等期中選舉的經驗。
+> 資料截至 2026-09-30（第八節石油、美伊與參院攻防更新至 2026-10-01；**最新變化見下方「最新更新（2026-10-11）」**）。本報告結合最新民調、預測模型與市場數據，並參考 1994、2006、2010、2018、2022 年等期中選舉的經驗。
 > 本報告僅供研究參考，不構成投資建議。歷史數據多為約略值，實際操作前請再核對。
+
+---
+
+## 最新更新（2026-10-11）
+
+### 1. 十天來的主要變化
+
+| 項目 | 9/30 前後 | 10/8–10/11 | 方向 |
+|---|---|---|---|
+| 民主黨拿下眾院機率 | DDHQ 76%、Silver 87%、市場約 92% | DDHQ 76%、Poliwave 82%、Polymarket 91%、Silver Deluxe 近 94% | 持平偏升 |
+| 民主黨拿下參院機率 | 55–65% | DDHQ 56%、Poliwave 61%、Polymarket 63%、**Silver 約 75%** | **上升**，各家差距擴大 |
+| 民主黨拿下兩院 | Kalshi 62% | DDHQ「略高於二分之一」、Polymarket 約 62% | 持平 |
+| Generic ballot | 約 D +8 | 約 D +6 到 +7.4（各家不同） | 小幅收斂 |
+| 川普支持度 | 約 37%，淨 −22 | 淨 −22 到 −23.5，Pew 單一民調低到 30% | 持平在低點 |
+| Brent 原油 | 約 97 美元 | **約 104–105 美元** | **上升** |
+| 荷莫茲海峽 | 談判中 | 9/28–10/2 發生 12 起油輪攻擊，單日通過量一度降到約 400 萬桶（9 月底日均約 1,500 萬桶） | 惡化 |
+| 美伊情勢 | 川普拒絕伊朗 7 天方案 | 10/8 川普宣布**選前不會攻擊伊朗**，但維持封鎖，同日財政部制裁 17 艘「影子船隊」油輪 | 選前升級風險下降，選後風險仍在 |
+| 10 年期美債 | 約 5.0% | **約 5.24–5.35%**（10/7 一度 5.35%） | **上升** |
+| S&P 500 | — | 10/6 收在歷史新高 7,818.93，10/9 收 7,811.54，週漲約 1.2% | 股市仍強 |
+| Fed | 9 月升息，預期再升 | 10/7 會議紀錄：多數官員認為年底前再升息「可能適當」。10/28 升息機率約 16–28%，12 月前升息機率約 75–85% | 10 月偏向按兵不動，12 月可能升 |
+
+### 2. 需要修正的地方：緬因州候選人
+
+- 第八節參院戰場表原本列的是 **Platner (D)**，引用的是 7 月的民調。Platner 雖然贏了 6/9 初選，但在 **7/10 退選**，民主黨在 7/25 的州黨代表大會改推 **Troy Jackson**。表格已經更正，同時改用 10 月的民調。
+
+### 3. 參院關鍵州最新民調（10 月初）
+
+| 州 | 對戰 | 最新民調 | 判讀 |
+|---|---|---|---|
+| 緬因 | Jackson (D) vs. Collins (R) | 華郵 Jackson +4；RCP 平均 Jackson +1；個別民調從 Collins +2 到 Jackson +4 | 勝負難分 |
+| 德州 | Talarico (D) vs. Paxton (R) | NYT/Siena Talarico +6；UMass Lowell 平手；Trafalgar Talarico +3 | 勝負難分，略偏 D |
+| 俄亥俄 | Brown (D) vs. Husted (R) | CNN Brown +6；co/efficient Husted +1 | 勝負難分 |
+| 愛荷華 | Turek (D) vs. Hinson (R) | 多數民調 Hinson 小幅領先（Emerson +2），Suffolk 則是 Turek +4 | 勝負難分，略偏 R |
+| 阿拉斯加 | Peltola (D) vs. Sullivan (R) | NYT/Siena Peltola +7（阿拉斯加民調向來難測） | 勝負難分 |
+
+- **重點：** 5 個勝負難分的共和黨席次裡，民主黨在 4 州的最新民調小幅領先，這是 Silver Bulletin 把參院勝率拉到約 75% 的主因。
+- **但是：** 以基本面為主的模型，例如 DDHQ 56%、PollsMax，仍把這幾州視為五五波。這幾州都是紅州，民調是否低估共和黨，是最大的不確定性。
+
+### 4. 對「期中選舉對市場有多大影響」的判斷（更新）
+
+**結論不變：選舉有影響，但市場的主旋律是油價和利率。這 10 天的變化反而強化了這個判斷。**
+
+- **選舉已大致反映在價格裡。** 民主黨拿下眾院幾乎是共識，兩院都拿下的機率也已經約六成。11/3 要讓市場大幅波動，需要共和黨守住兩院這種大爆冷，目前機率約一成。
+- **這 10 天市場在交易的是油價和殖利率，不是選情。** Brent 漲了約 8%，10 年債升到 2007 年以來的高點附近，S&P 500 卻仍在歷史新高。股債的走勢都跟選情無關。
+- **川普「選前不打伊朗」降低了選前的升級風險，但把風險往後推。** 第八節情境 C（升級）在選前發生的機率下降，但報導指出川普考慮選後再行動。所以**選後到年底**是油價波動最大的區間，並且會和 12/11 臨時撥款到期、12 月 FOMC 疊在一起。
+- **債市要特別注意。** 10 年債逼近 5.35%，Pimco 已經談到如果槓桿部位被迫平倉，殖利率可能升到 6%。選舉結果對債市最直接的影響是財政路徑：民主黨拿下兩院等於封住了再減稅、再發支票的可能，對長債是正面的。但在油價和通膨主導之下，這個利多可能被蓋過。
+- **10 月要看的事件：**
+  - **10/14 公布 9 月 CPI**：核心 CPI 月增 0.3% 以上，可能重燃 10/28 升息的預期
+  - **10/28 FOMC**
+  - **美伊談判有沒有進展、荷莫茲海峽的通過量**
+
+### 5. 這次更新的資料來源
+
+- 預測：[DDHQ 2026 Forecast](https://votes.decisiondeskhq.com/forecast/2026)、[DDHQ – October forecast update](https://decisiondeskhq.substack.com/p/forecast-update-october-2026-midterms-democrats-chance-sweep-senate-house-substack-live)、[Silver Bulletin Forecast](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model)、[Newsweek – Democrat chances hit new high (Nate Silver)](https://www.newsweek.com/democrat-chances-of-winning-house-senate-hit-new-high-nate-silver-forecast-12545290)、[Poliwave Projection](https://www.poliwave.com/us/fed/projection)、[Polymarket – Balance of Power](https://polymarket.com/event/balance-of-power-2026-midterms)
+- 民調：[Pew Research – Oct 8, 2026](https://www.pewresearch.org/politics/2026/10/08/with-americans-in-a-sour-mood-democratic-voters-are-more-engaged-in-midterms/)、[Silver Bulletin – Trump approval](https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin)、[US Polling Data – Generic ballot](https://uspollingdata.com/polls/generic-ballot/)、[Forbes – Hottest midterm races (Oct 9)](https://www.forbes.com/sites/saradorn/2026/10/09/hottest-2026-midterm-races-democrat-jackson-leads-in-maine-senate-race-republican-hinson-ahead-in-iowa-updated-daily/)、[RealClearPolling – Maine Senate](https://www.realclearpolling.com/polls/senate/general/2026/collins-vs-jackson)、[CNN – 10 Senate seats most likely to flip](https://www.cnn.com/2026/10/05/politics/10-senate-seats-most-likely-to-flip-2026)、[PollsMax Senate Forecast](https://www.pollsmax.com/senate/)
+- 緬因候選人：[Wikipedia – 2026 Maine Senate election](https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Maine)、[C-SPAN – Troy Jackson nomination](https://www.c-span.org/clip/campaign-2026/troy-jackson-wins-maine-senate-democratic-primary/5203557)、[NBC – Maine primary results](https://www.nbcnews.com/politics/2026-primary-elections/maine-senate-results)
+- 美伊與油價：[CNN – Trump won't attack Iran before midterms](https://www.cnn.com/2026/10/08/politics/trump-iran-attack-election)、[Axios – No Iran strikes before midterms](https://www.axios.com/2026/10/08/trump-iran-strikes-midterm-elections)、[Washington Times – Trump rules out pre-midterm strikes](https://www.washingtontimes.com/news/2026/oct/8/trump-rules-pre-midterm-strikes-iran-citing-productive-diplomacy/)、[IndexBox – Brent above $105](https://www.indexbox.io/blog/brent-crude-tops-105-as-iran-steps-up-tanker-attacks-in-hormuz-and-us-gulf-coast-shuts-in-ahead-of-storm/)、[OilPrice – Iran steps up tanker attacks](https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-2-as-Iran-Steps-Up-Attacks-on-Hormuz-Tankers.html)
+- 利率與股市：[Investing.com – S&P 500 below 7,800 as 10-year hits 5.35%](https://www.investing.com/analysis/sp-500-falls-back-below-7800-as-10year-treasury-yield-hits-535-200689129)、[The Hill – Fed officials view another hike as likely](https://thehill.com/business/6135206-fed-officials-project-future-increases)、[FXStreet – Fed minutes](https://www.fxstreet.com/news/fed-minutes-set-to-provide-some-insight-into-the-timing-of-next-rate-hikes-202610071400)、[DeFi Rate – Oct 28 FOMC odds](https://defirate.com/prediction-markets/fed-decision-odds/)、[Admiral Markets – September CPI preview](https://admiralmarkets.com/analytics/traders-blog/us-cpi-september-2026-scenarios-fed-october)
 
 ---
 
@@ -269,12 +327,12 @@
 ### 2. 參議院的數學：共和黨要守住幾席？
 
 - 目前是 53R 對 47D。如果變成 50 對 50，副總統 Vance 有關鍵票，所以**民主黨需要淨增 4 席，拿到 51 席才算過半**。
-- 主要戰場（NYT/Siena、DDHQ 等 9 月民調）：
+- 主要戰場（9 月民調；緬因已依 10/11 更新更正候選人，最新民調見文首「最新更新」）：
 
 | 州 | 現任 | 對戰 | 民調 | 判讀 |
 |---|---|---|---|---|
 | 北卡羅來納 | R（開放席次） | Cooper (D) vs. Whatley (R) | D +7 | 偏民主黨，大概率翻盤 |
-| 緬因 | R（Collins） | Platner (D) vs. Collins (R) | D +2 | 勝負難分 |
+| 緬因 | R（Collins） | Jackson (D) vs. Collins (R)（原提名人 Platner 已於 7/10 退選） | 10 月 RCP 平均 Jackson +1 | 勝負難分 |
 | 德州 | R（開放席次） | Talarico (D) vs. Paxton (R) | 平手 | 勝負難分 |
 | 俄亥俄（補選） | R（Husted） | Brown (D) vs. Husted (R) | R +3（也有 D +3 的民調） | 勝負難分 |
 | 愛荷華 | R（開放席次） | Turek (D) vs. Hinson (R) | R +2 | 勝負難分 |
